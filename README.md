@@ -1,0 +1,2 @@
+# What-To-Dine
+"Freshman 15" is an expression commonly used in the United States that refers to an amount of weight gained during a student's first year at college. To solve this I built an app that automatically presents the user with a customized menu catered to their data points. The app analyses the Dining Commons menu at SJSU to provide students with a customized diet plan. What to Dine automatically presents you with a customized menu catered to your data points and most importantly the app works Exclusively for SJSU Students.
