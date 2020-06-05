@@ -1,0 +1,24 @@
+{
+  "name": "dietrecommenderapp",
+  "displayName": "What to Dine",
+  
+  "expo": {
+    "name": "dietrecommenderapp",
+    "slug": "expo-template-bare",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "ios": {
+      "bundleIdentifier": "com.companyname.appname"
+    },
+    "android":{
+      "package": "com.companyname.appname"
+      },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
