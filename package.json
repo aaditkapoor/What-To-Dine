@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "graphs-adt": "^0.1.9",
     "lodash": "^4.17.15",
-    "mathjs": "^6.2.5",
+    "mathjs": "^7.5.1",
     "request": "^2.88.0"
   },
   "author": "",
